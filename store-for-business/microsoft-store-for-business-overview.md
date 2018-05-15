@@ -123,9 +123,9 @@ App distribution is handled through two channels, either through the Microsoft S
 - Curate private store for all employees – A private store can include content you’ve purchased from Microsoft Store for Business, and your line-of-business apps that you’ve submitted to Microsoft Store for Business. Apps in your private store are available to all of your employees. They can browse the private store and install apps when needed.
 - To use the options above users must be signed in with an Azure AD account on a Windows 10 device. Licenses are assigned as individuals install apps. 
 
-**Using a management tool** – For larger organizations that want a greater level of control over how apps are distributed and managed, a management tools provides other distribution options:
+**Using a management tool** – For larger organizations that want a greater level of control over how apps are distributed and managed, a management tool provides other distribution options:
 - Scoped content distribution – Ability to scope content distribution to specific groups of employees.
-- Install apps for employees – Employees are not responsible for installing apps. Management tool installs apps for employees.
+- Install apps for employees – Employees are not responsible for installing apps. A management tool is used to install apps for employees.
 
 Management tools can synchronize content that has been acquired in the Store for Business. If an offline application has been purchased this will also include the app package, license and metadata for the app (like, icons, count, or localized product descriptions). Using the metadata, management tools can enable portals or apps as a destination for employees to acquire apps.
 
@@ -374,7 +374,7 @@ This table summarize what customers can purchase, depending on which Microsoft S
 > **Microsoft Store for Education customers with support for free apps and Minecraft: Education Edition**
 - Admins can acquire free apps from **Microsoft Store for Education**.
 - Admins need to use an invoice to purchase **Minecraft: Education Edition**. For more information, see [Invoice payment option](https://docs.microsoft.com/education/windows/school-get-minecraft#invoices). 
-- Teachers, or people with the Basic Purachaser role, can acquire free apps, but not **Minecraft: Education Edition**. 
+- Teachers, or people with the Basic Purchaser role, can acquire free apps, but not **Minecraft: Education Edition**. 
 
 ## Privacy notice
 
